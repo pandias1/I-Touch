@@ -8,3 +8,5 @@ push the changes to remote repo
 This is for SKL changes
 
 This changes for master branch
+
+This changes for SKL branch (CI build)
